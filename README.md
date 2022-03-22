@@ -1,1 +1,1 @@
-# BankisApp created with basic HTML, CSS and JavaScript during JS course.
+# BankistApp created with basic HTML, CSS and JavaScript during JS course.
