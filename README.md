@@ -15,7 +15,25 @@ HTML 5, CSS 3 and vanilla JavaScript.
 ### Prerequisites
 No need for any previous installaitons or software except for maybe Visual Studio Code and web server extension.
 
+##Building
+In order to build up nagvite to main folder and use npm to build project.
+```shell
+npm install
+```
+First use this command to install dependencies from package.json that are required to open the project.
+```shell
+npm run start
+```
+Secondly use this command to run the project
 
+##Usage
+In order to login user can use credentials that are located in code. That is:
+```shell
+login: js password: 1111
+```
+```shell
+login: jd password: 2222
+```
 ## Licensing
 
 Project is using MIT license.
