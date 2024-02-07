@@ -15,7 +15,7 @@ HTML 5, CSS 3 and vanilla JavaScript.
 ### Prerequisites
 No need for any previous installaitons or software except for maybe Visual Studio Code and web server extension.
 
-##Building
+## Building
 In order to build up nagvite to main folder and use npm to build project.
 ```shell
 npm install
@@ -26,7 +26,7 @@ npm run start
 ```
 Secondly use this command to run the project
 
-##Usage
+## Usage
 In order to login user can use credentials that are located in code. That is:
 ```shell
 login: js password: 1111
