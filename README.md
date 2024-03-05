@@ -1,4 +1,4 @@
-# Bankist app &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+# Bankist app &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Wawrzynn/bankist-app/blob/master/LICENSE)
 
 Bankist is a web app created by using HTML, CSS and vanilla JavaScript during JS course on Udemy. THis application is a small bank where user can create his account and manage his balance.
 
